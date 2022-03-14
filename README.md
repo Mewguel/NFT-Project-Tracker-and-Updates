@@ -1,4 +1,4 @@
-# NFT-Flip-Bot
+# NFT-Project-Tracker-and-Updates
 ---
 # About the Project
 ---
