@@ -2,7 +2,7 @@
 ---
 # About the Project
 ---
-This project is a bot that automates the execution of listing and offers of NFTs for OpenSea. 
+This project aims  to automate the execution of listing and offers of NFTs. 
 ---
 # Specifications:
 Main specifications/functions of the bot:
